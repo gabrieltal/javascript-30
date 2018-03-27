@@ -13,3 +13,7 @@ Done on Monday March 26 2018
 Little tough here. Tried it on my own without watching the video. I got it working however the code was suboptimal and I could tell.
 I decided to watch and see what they did and compared it to mine.
 I had the right idea. Their way of implementing was better so once I saw how they did the seconds I stopped the video and finished the rest. I commented out my previous attempt and left it there for posterity. I learned about some more CSS transform properties in the process. All around a good exercise!
+
+03 - CSS Variables
+Done on Tuesday March 27 2018
+Another really cool exercise. I learned about CSS variables, how to change and update them, how to set them. I learned about two more event listeners, 'change' and 'mousemove'. I learned how to grab whole 'data' properites using 'dataset'. 
