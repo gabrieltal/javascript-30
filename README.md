@@ -1,7 +1,5 @@
 Here is my attempt to run through the javascript 30. Might update this as I run through each to give a little feedback about what I learned through each exercise.
 
-Day 1
-
 01 - JavaScript Drum Kit
 Done on Sunday March 25 2018
 Fun exercise. Learned about the event listener 'transitionend'.
@@ -20,4 +18,8 @@ Another really cool exercise. I learned about CSS variables, how to change and u
 
 04 - Array Cardio
 Done on Thursday May 3 2018
-I'm back on my JavaScript 30 stint. There was a lot of arrays. I learned some cool things about sort. Overall the exercise was pretty easy. 
+I'm back on my JavaScript 30 stint. There was a lot of arrays. I learned some cool things about sort. Overall the exercise was pretty easy.
+
+05 - Flex Panel Gallery
+Done on Friday May 4 2018
+A lot of flex which I love doing. Learned more about flex property and how it works. Also good practice with using transitions
