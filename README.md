@@ -16,4 +16,8 @@ I had the right idea. Their way of implementing was better so once I saw how the
 
 03 - CSS Variables
 Done on Tuesday March 27 2018
-Another really cool exercise. I learned about CSS variables, how to change and update them, how to set them. I learned about two more event listeners, 'change' and 'mousemove'. I learned how to grab whole 'data' properites using 'dataset'. 
+Another really cool exercise. I learned about CSS variables, how to change and update them, how to set them. I learned about two more event listeners, 'change' and 'mousemove'. I learned how to grab whole 'data' properites using 'dataset'.
+
+04 - Array Cardio
+Done on Thursday May 3 2018
+I'm back on my JavaScript 30 stint. There was a lot of arrays. I learned some cool things about sort. Overall the exercise was pretty easy. 
