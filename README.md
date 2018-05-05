@@ -23,3 +23,7 @@ I'm back on my JavaScript 30 stint. There was a lot of arrays. I learned some co
 05 - Flex Panel Gallery
 Done on Friday May 4 2018
 A lot of flex which I love doing. Learned more about flex property and how it works. Also good practice with using transitions
+
+06 - Type Ahead
+Done on Saturday May 5 2018
+Really great exercise. Learning how to highlight certain text, using a lot of regexp, great learning experience
