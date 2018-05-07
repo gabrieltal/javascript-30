@@ -27,3 +27,7 @@ A lot of flex which I love doing. Learned more about flex property and how it wo
 06 - Type Ahead
 Done on Saturday May 5 2018
 Really great exercise. Learning how to highlight certain text, using a lot of regexp, great learning experience
+
+07 - More Array Cardio
+Done on Sunday May 6 2018
+Simple array exercises
