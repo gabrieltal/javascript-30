@@ -31,3 +31,7 @@ Really great exercise. Learning how to highlight certain text, using a lot of re
 07 - More Array Cardio
 Done on Sunday May 6 2018
 Simple array exercises
+
+08 - Canvas Fun
+Done on Sunday May 13 2018
+Learned a few nifty tricks for canvas!
