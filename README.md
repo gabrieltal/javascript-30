@@ -35,3 +35,7 @@ Simple array exercises
 08 - Canvas Fun
 Done on Sunday May 13 2018
 Learned a few nifty tricks for canvas!
+
+09 - Dev Tools
+Done on Tuesday May 15 2018
+Learned a few dev tools tricks. Different console methods. Really quick and simple exercise
