@@ -39,3 +39,7 @@ Learned a few nifty tricks for canvas!
 09 - Dev Tools
 Done on Tuesday May 15 2018
 Learned a few dev tools tricks. Different console methods. Really quick and simple exercise
+
+10 - Checkboxes
+Done on Wednesday May 16 2018
+Learned nifty trick on checkboxes and how to hold shift to check all the checkboxes in between the first selected and last selected checkbox
