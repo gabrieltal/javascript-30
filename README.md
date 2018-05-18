@@ -43,3 +43,7 @@ Learned a few dev tools tricks. Different console methods. Really quick and simp
 10 - Checkboxes
 Done on Wednesday May 16 2018
 Learned nifty trick on checkboxes and how to hold shift to check all the checkboxes in between the first selected and last selected checkbox
+
+11 - Video player
+Done on Thursday May 17 2018
+Learned about video players, video controls. Great learning process.
