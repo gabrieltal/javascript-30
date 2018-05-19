@@ -47,3 +47,7 @@ Learned nifty trick on checkboxes and how to hold shift to check all the checkbo
 11 - Video player
 Done on Thursday May 17 2018
 Learned about video players, video controls. Great learning process.
+
+12 - Key Sequence detection
+Done on Friday May 18 2018
+Learned about entering key sequences to make cool things like unicorns appear
