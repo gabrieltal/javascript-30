@@ -51,3 +51,7 @@ Learned about video players, video controls. Great learning process.
 12 - Key Sequence detection
 Done on Friday May 18 2018
 Learned about entering key sequences to make cool things like unicorns appear
+
+13 - Slide in on scroll
+Done on Saturday May 19 2018
+Images slide in as you're scrolling down. Nifty idea I don't really like how it looks though so I don't know that I'd actually use this. 
