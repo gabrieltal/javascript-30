@@ -54,4 +54,8 @@ Learned about entering key sequences to make cool things like unicorns appear
 
 13 - Slide in on scroll
 Done on Saturday May 19 2018
-Images slide in as you're scrolling down. Nifty idea I don't really like how it looks though so I don't know that I'd actually use this. 
+Images slide in as you're scrolling down. Nifty idea I don't really like how it looks though so I don't know that I'd actually use this.
+
+14 - JavaScript references vs copying
+Done on Sunday May 20 2018
+Quick lesson on references vs copying.
