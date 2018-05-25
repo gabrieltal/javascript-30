@@ -59,3 +59,7 @@ Images slide in as you're scrolling down. Nifty idea I don't really like how it 
 14 - JavaScript references vs copying
 Done on Sunday May 20 2018
 Quick lesson on references vs copying.
+
+15 - Local storage
+Done on Thursday May 24 2018
+Quick lesson on local storage
