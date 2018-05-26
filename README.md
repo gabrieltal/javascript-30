@@ -63,3 +63,7 @@ Quick lesson on references vs copying.
 15 - Local storage
 Done on Thursday May 24 2018
 Quick lesson on local storage
+
+16 - Mouse move shadow
+Done on Friday May 25 2018
+Quick lesson on text shadow and using mouse move.
