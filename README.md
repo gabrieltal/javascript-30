@@ -67,3 +67,7 @@ Quick lesson on local storage
 16 - Mouse move shadow
 Done on Friday May 25 2018
 Quick lesson on text shadow and using mouse move.
+
+17 - Sort without articles
+Done on Saturday May 26 2018
+Quick lesson on sorting without using articles.
