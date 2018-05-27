@@ -71,3 +71,7 @@ Quick lesson on text shadow and using mouse move.
 17 - Sort without articles
 Done on Saturday May 26 2018
 Quick lesson on sorting without using articles.
+
+18 - Adding up times with reduce
+Done on Sunday May 27 2018
+Quick lesson on using a lot of maps and reduces to get a total time
