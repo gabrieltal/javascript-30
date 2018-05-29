@@ -75,3 +75,7 @@ Quick lesson on sorting without using articles.
 18 - Adding up times with reduce
 Done on Sunday May 27 2018
 Quick lesson on using a lot of maps and reduces to get a total time
+
+19 - Webcam fun
+Done on Monday May 28 2018
+I'm so sick. This was one of the coolest exercises we've done. Webcam fun. Getting the webcam to work, storing photos, saving them. Adding filters. For real it was so cool. Ahhhh
