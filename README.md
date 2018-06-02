@@ -79,3 +79,7 @@ Quick lesson on using a lot of maps and reduces to get a total time
 19 - Webcam fun
 Done on Monday May 28 2018
 I'm so sick. This was one of the coolest exercises we've done. Webcam fun. Getting the webcam to work, storing photos, saving them. Adding filters. For real it was so cool. Ahhhh
+
+20 - Speech Recognition
+Done on Saturday June 2 2018
+This was a cool exercise in speech recognition. Not a big fan of speech recognition technology just cause I feel like it never works well. Cool exercise nonetheless.
