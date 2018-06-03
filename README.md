@@ -83,3 +83,7 @@ I'm so sick. This was one of the coolest exercises we've done. Webcam fun. Getti
 20 - Speech Recognition
 Done on Saturday June 2 2018
 This was a cool exercise in speech recognition. Not a big fan of speech recognition technology just cause I feel like it never works well. Cool exercise nonetheless.
+
+21 - Geolocation
+Done on Sunday June 3 2018
+Quick exercise on geolocation. Kinda cool. It wasn't a whole lot.
