@@ -87,3 +87,7 @@ This was a cool exercise in speech recognition. Not a big fan of speech recognit
 21 - Geolocation
 Done on Sunday June 3 2018
 Quick exercise on geolocation. Kinda cool. It wasn't a whole lot.
+
+22 - Follow Along Link Highlights
+Done on Wednesday June 6 2018
+Cool exercise that involved highlighting links. Learned a nifty trick in regards to styling getting messed up when you scroll down and bring up dev tools. Something I ran into before and had to figure out work arounds.
