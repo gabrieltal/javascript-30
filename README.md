@@ -95,3 +95,7 @@ Cool exercise that involved highlighting links. Learned a nifty trick in regards
 23 - Speech Synthesis
 Done on Monday June 11 2018
 Cool fun exercise using speech synthesis
+
+24 - Sticky Nav
+Done on Tuesday June 12 2018
+Nice exercise to create a sticky nav bar. Learned about offsets and using them to stop some elements from jumping when you make some element fixed as they no longer take up space on the page. 
